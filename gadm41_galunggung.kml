@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="gadm41_idn_3" id="gadm41_idn_3">
+	<SimpleField name="GID_3" type="string"></SimpleField>
+	<SimpleField name="GID_0" type="string"></SimpleField>
+	<SimpleField name="COUNTRY" type="string"></SimpleField>
+	<SimpleField name="GID_1" type="string"></SimpleField>
+	<SimpleField name="NAME_1" type="string"></SimpleField>
+	<SimpleField name="NL_NAME_1" type="string"></SimpleField>
+	<SimpleField name="GID_2" type="string"></SimpleField>
+	<SimpleField name="NAME_2" type="string"></SimpleField>
+	<SimpleField name="NL_NAME_2" type="string"></SimpleField>
+	<SimpleField name="NAME_3" type="string"></SimpleField>
+	<SimpleField name="VARNAME_3" type="string"></SimpleField>
+	<SimpleField name="NL_NAME_3" type="string"></SimpleField>
+	<SimpleField name="TYPE_3" type="string"></SimpleField>
+	<SimpleField name="ENGTYPE_3" type="string"></SimpleField>
+	<SimpleField name="CC_3" type="string"></SimpleField>
+	<SimpleField name="HASC_3" type="string"></SimpleField>
+</Schema>
+<Folder><name>gadm41_idn_3</name>
+  <Placemark id="gadm41_idn_3.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm41_idn_3">
+		<SimpleData name="GID_3">IDN.9.11.36_1</SimpleData>
+		<SimpleData name="GID_0">IDN</SimpleData>
+		<SimpleData name="COUNTRY">Indonesia</SimpleData>
+		<SimpleData name="GID_1">IDN.9_1</SimpleData>
+		<SimpleData name="NAME_1">JawaBarat</SimpleData>
+		<SimpleData name="NL_NAME_1">NA</SimpleData>
+		<SimpleData name="GID_2">IDN.9.11_1</SimpleData>
+		<SimpleData name="NAME_2">Garut</SimpleData>
+		<SimpleData name="NL_NAME_2">NA</SimpleData>
+		<SimpleData name="NAME_3">Sucinaraja</SimpleData>
+		<SimpleData name="VARNAME_3">NA</SimpleData>
+		<SimpleData name="NL_NAME_3">NA</SimpleData>
+		<SimpleData name="TYPE_3">Kecamatan</SimpleData>
+		<SimpleData name="ENGTYPE_3">Sub-district</SimpleData>
+		<SimpleData name="CC_3">3205211</SimpleData>
+		<SimpleData name="HASC_3">NA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>107.9912,-7.1915 107.9956,-7.1925 107.9953,-7.1962 107.997,-7.1977 107.9959,-7.1998 107.9989,-7.2025 108.0203,-7.2033 108.0324,-7.2091 108.0493,-7.2119 108.0555,-7.2155 108.0664,-7.2158 108.0604,-7.2249 108.0332,-7.2269 108.0186,-7.2309 108.0148,-7.2357 108.0135,-7.2411 108.005,-7.2449 107.9954,-7.2525 107.9904,-7.2486 107.9888,-7.2392 107.9855,-7.2329 107.9862,-7.2311 107.9834,-7.229 107.9834,-7.226 107.9803,-7.2243 107.9812,-7.2212 107.9796,-7.2204 107.9799,-7.2182 107.9744,-7.2132 107.9721,-7.1989 107.9739,-7.1909 107.9705,-7.1866 107.9739,-7.1831 107.9755,-7.1848 107.9781,-7.1794 107.9831,-7.1838 107.9851,-7.1831 107.9874,-7.1847 107.9888,-7.1823 107.9933,-7.1864 107.9912,-7.1915</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="gadm41_idn_3.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm41_idn_3">
+		<SimpleData name="GID_3">IDN.9.11.42_1</SimpleData>
+		<SimpleData name="GID_0">IDN</SimpleData>
+		<SimpleData name="COUNTRY">Indonesia</SimpleData>
+		<SimpleData name="GID_1">IDN.9_1</SimpleData>
+		<SimpleData name="NAME_1">JawaBarat</SimpleData>
+		<SimpleData name="NL_NAME_1">NA</SimpleData>
+		<SimpleData name="GID_2">IDN.9.11_1</SimpleData>
+		<SimpleData name="NAME_2">Garut</SimpleData>
+		<SimpleData name="NL_NAME_2">NA</SimpleData>
+		<SimpleData name="NAME_3">Wanaraja</SimpleData>
+		<SimpleData name="VARNAME_3">NA</SimpleData>
+		<SimpleData name="NL_NAME_3">NA</SimpleData>
+		<SimpleData name="TYPE_3">Kecamatan</SimpleData>
+		<SimpleData name="ENGTYPE_3">Sub-district</SimpleData>
+		<SimpleData name="CC_3">3205210</SimpleData>
+		<SimpleData name="HASC_3">NA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>108.0173,-7.1854 108.0249,-7.1865 108.0325,-7.1935 108.0387,-7.1937 108.0604,-7.209 108.0661,-7.2075 108.068,-7.2084 108.0688,-7.2111 108.0664,-7.2158 108.0555,-7.2155 108.0493,-7.2119 108.0324,-7.2091 108.0203,-7.2033 107.9984,-7.2024 107.9959,-7.1998 107.997,-7.1977 107.9953,-7.1962 107.9956,-7.1925 107.9906,-7.1916 107.9933,-7.1864 107.9888,-7.1823 107.9874,-7.1847 107.9851,-7.1831 107.9831,-7.1838 107.9781,-7.1794 107.9755,-7.1848 107.9739,-7.1831 107.9705,-7.1866 107.9681,-7.1821 107.9645,-7.1792 107.9634,-7.1756 107.965,-7.173 107.9619,-7.1683 107.9679,-7.1641 107.9692,-7.1607 107.9703,-7.1619 107.9724,-7.1566 107.9763,-7.158 107.9778,-7.1626 107.9807,-7.156 107.9817,-7.1599 107.9853,-7.1626 107.987,-7.1679 107.9901,-7.1711 107.9941,-7.1734 107.9932,-7.1714 107.995,-7.1688 108.0028,-7.1746 108.0065,-7.182 108.0089,-7.1834 108.0125,-7.1824 108.0141,-7.1848 108.0173,-7.1854</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="gadm41_idn_3.3">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm41_idn_3">
+		<SimpleData name="GID_3">IDN.9.26.6_1</SimpleData>
+		<SimpleData name="GID_0">IDN</SimpleData>
+		<SimpleData name="COUNTRY">Indonesia</SimpleData>
+		<SimpleData name="GID_1">IDN.9_1</SimpleData>
+		<SimpleData name="NAME_1">JawaBarat</SimpleData>
+		<SimpleData name="NL_NAME_1">NA</SimpleData>
+		<SimpleData name="GID_2">IDN.9.26_1</SimpleData>
+		<SimpleData name="NAME_2">Tasikmalaya</SimpleData>
+		<SimpleData name="NL_NAME_2">NA</SimpleData>
+		<SimpleData name="NAME_3">Cigalontang</SimpleData>
+		<SimpleData name="VARNAME_3">NA</SimpleData>
+		<SimpleData name="NL_NAME_3">NA</SimpleData>
+		<SimpleData name="TYPE_3">Kecamatan</SimpleData>
+		<SimpleData name="ENGTYPE_3">Sub-district</SimpleData>
+		<SimpleData name="CC_3">3206200</SimpleData>
+		<SimpleData name="HASC_3">NA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>108.0703,-7.3458 108.0823,-7.3411 108.0863,-7.3463 108.093,-7.35 108.0928,-7.3622 108.0876,-7.3603 108.0883,-7.3623 108.0867,-7.3642 108.0828,-7.363 108.0798,-7.3641 108.076,-7.3618 108.0676,-7.3663 108.067,-7.3627 108.0639,-7.3638 108.0632,-7.3615 108.0616,-7.3632 108.0542,-7.3618 108.0499,-7.3628 108.049,-7.3612 108.0419,-7.363 108.0378,-7.3624 108.0374,-7.3604 108.034,-7.363 108.0327,-7.3618 108.0273,-7.3629 108.0259,-7.3654 108.0217,-7.3631 108.02,-7.36 108.0181,-7.3627 108.012,-7.3612 108.0114,-7.3638 108.0089,-7.3629 108.007,-7.3644 108.0051,-7.3637 108.0047,-7.3616 108.0028,-7.3632 107.9994,-7.3628 107.9944,-7.3601 107.9931,-7.3621 107.9919,-7.3588 107.99,-7.3613 107.9849,-7.358 107.9835,-7.359 107.9817,-7.3582 107.9825,-7.3549 107.9806,-7.3529 107.9781,-7.3532 107.9765,-7.3496 107.9735,-7.3495 107.9735,-7.3476 107.9709,-7.3475 107.9635,-7.3419 107.959,-7.3423 107.953,-7.3396 107.9521,-7.3363 107.9418,-7.3247 107.9402,-7.3162 107.9313,-7.3158 107.9283,-7.3118 107.9306,-7.3065 107.9319,-7.3063 107.9316,-7.303 107.9303,-7.3011 107.9268,-7.3018 107.926,-7.297 107.9228,-7.2936 107.9226,-7.2888 107.9244,-7.2857 107.9291,-7.2849 107.932,-7.2824 107.9422,-7.2829 107.9675,-7.2732 107.9768,-7.274 107.9794,-7.2729 107.9824,-7.2621 107.9945,-7.2586 107.9948,-7.2528 108.0001,-7.25 108.005,-7.2449 108.0135,-7.2411 108.0148,-7.2357 108.0186,-7.2309 108.0332,-7.2269 108.0581,-7.2246 108.0665,-7.2267 108.0686,-7.2284 108.0688,-7.2331 108.0646,-7.2374 108.0651,-7.2402 108.0623,-7.2422 108.0613,-7.2468 108.0478,-7.2423 108.0417,-7.2422 108.035,-7.2456 108.0285,-7.246 108.0261,-7.2475 108.0262,-7.2505 108.0244,-7.2491 108.0225,-7.2511 108.0266,-7.2561 108.0282,-7.2634 108.0264,-7.2689 108.0327,-7.2785 108.0311,-7.2806 108.038,-7.2849 108.0427,-7.2939 108.0409,-7.2955 108.0423,-7.2972 108.046,-7.2969 108.045,-7.3 108.0476,-7.3023 108.0475,-7.3068 108.0522,-7.3104 108.0507,-7.3164 108.052,-7.32 108.048,-7.3184 108.0454,-7.3215 108.0499,-7.3274 108.0514,-7.3318 108.0506,-7.3341 108.0616,-7.3387 108.0646,-7.3412 108.065,-7.3437 108.067,-7.3438 108.0685,-7.3463 108.0703,-7.3458</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="gadm41_idn_3.4">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm41_idn_3">
+		<SimpleData name="GID_3">IDN.9.26.11_1</SimpleData>
+		<SimpleData name="GID_0">IDN</SimpleData>
+		<SimpleData name="COUNTRY">Indonesia</SimpleData>
+		<SimpleData name="GID_1">IDN.9_1</SimpleData>
+		<SimpleData name="NAME_1">JawaBarat</SimpleData>
+		<SimpleData name="NL_NAME_1">NA</SimpleData>
+		<SimpleData name="GID_2">IDN.9.26_1</SimpleData>
+		<SimpleData name="NAME_2">Tasikmalaya</SimpleData>
+		<SimpleData name="NL_NAME_2">NA</SimpleData>
+		<SimpleData name="NAME_3">Cisayong</SimpleData>
+		<SimpleData name="VARNAME_3">NA</SimpleData>
+		<SimpleData name="NL_NAME_3">NA</SimpleData>
+		<SimpleData name="TYPE_3">Kecamatan</SimpleData>
+		<SimpleData name="ENGTYPE_3">Sub-district</SimpleData>
+		<SimpleData name="CC_3">3206230</SimpleData>
+		<SimpleData name="HASC_3">NA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>108.1843,-7.2696 108.1829,-7.2716 108.1789,-7.2721 108.1798,-7.276 108.1718,-7.2748 108.1654,-7.2771 108.1573,-7.2686 108.1505,-7.2674 108.1493,-7.2692 108.14,-7.2616 108.1391,-7.2571 108.1326,-7.2559 108.1291,-7.2586 108.1257,-7.259 108.1218,-7.258 108.1161,-7.2528 108.1088,-7.2513 108.107,-7.2486 108.101,-7.2495 108.0884,-7.2451 108.078,-7.2446 108.0712,-7.2394 108.0645,-7.2376 108.0684,-7.2338 108.0688,-7.2294 108.0671,-7.2269 108.0623,-7.226 108.1016,-7.2168 108.1051,-7.2162 108.1098,-7.2181 108.113,-7.2138 108.136,-7.2221 108.1409,-7.2219 108.1386,-7.2248 108.1342,-7.2265 108.1401,-7.2351 108.144,-7.2325 108.1467,-7.2335 108.1512,-7.2295 108.1571,-7.2296 108.163,-7.2321 108.1666,-7.2318 108.1713,-7.2361 108.1739,-7.2349 108.1739,-7.2377 108.1771,-7.2414 108.1829,-7.24 108.1866,-7.242 108.1877,-7.2447 108.1903,-7.2452 108.1924,-7.2435 108.192,-7.2452 108.194,-7.246 108.1932,-7.2488 108.1949,-7.2505 108.1924,-7.2507 108.1926,-7.2527 108.1906,-7.2515 108.1887,-7.2545 108.1881,-7.2625 108.1893,-7.2638 108.1915,-7.2617 108.1902,-7.2652 108.1931,-7.2664 108.1933,-7.2689 108.1897,-7.2723 108.1843,-7.2696</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="gadm41_idn_3.5">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm41_idn_3">
+		<SimpleData name="GID_3">IDN.9.26.19_1</SimpleData>
+		<SimpleData name="GID_0">IDN</SimpleData>
+		<SimpleData name="COUNTRY">Indonesia</SimpleData>
+		<SimpleData name="GID_1">IDN.9_1</SimpleData>
+		<SimpleData name="NAME_1">JawaBarat</SimpleData>
+		<SimpleData name="NL_NAME_1">NA</SimpleData>
+		<SimpleData name="GID_2">IDN.9.26_1</SimpleData>
+		<SimpleData name="NAME_2">Tasikmalaya</SimpleData>
+		<SimpleData name="NL_NAME_2">NA</SimpleData>
+		<SimpleData name="NAME_3">Leuwisari</SimpleData>
+		<SimpleData name="VARNAME_3">NA</SimpleData>
+		<SimpleData name="NL_NAME_3">NA</SimpleData>
+		<SimpleData name="TYPE_3">Kecamatan</SimpleData>
+		<SimpleData name="ENGTYPE_3">Sub-district</SimpleData>
+		<SimpleData name="CC_3">3206210</SimpleData>
+		<SimpleData name="HASC_3">NA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>108.1175,-7.3379 108.1201,-7.3398 108.1199,-7.3426 108.1228,-7.3459 108.1191,-7.3463 108.1179,-7.3484 108.1157,-7.3479 108.1153,-7.3411 108.1055,-7.3448 108.1005,-7.3445 108.1001,-7.3376 108.0983,-7.3369 108.0972,-7.3263 108.0948,-7.3214 108.0946,-7.3233 108.0931,-7.3211 108.0929,-7.3241 108.091,-7.3238 108.0905,-7.3204 108.0901,-7.3236 108.0886,-7.3235 108.0882,-7.3212 108.0828,-7.3272 108.0814,-7.327 108.0818,-7.3233 108.0778,-7.321 108.0743,-7.31 108.0732,-7.3087 108.0694,-7.3098 108.067,-7.3086 108.0686,-7.2986 108.0656,-7.2742 108.0677,-7.2576 108.0763,-7.2637 108.085,-7.2633 108.0885,-7.2697 108.0925,-7.2723 108.0961,-7.2875 108.1007,-7.2943 108.1034,-7.2956 108.1055,-7.3026 108.1093,-7.3056 108.1088,-7.3109 108.1143,-7.3131 108.1182,-7.3178 108.1184,-7.3246 108.1238,-7.3292 108.1228,-7.3343 108.1193,-7.3354 108.1175,-7.3379</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="gadm41_idn_3.6">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm41_idn_3">
+		<SimpleData name="GID_3">IDN.9.26.30_1</SimpleData>
+		<SimpleData name="GID_0">IDN</SimpleData>
+		<SimpleData name="COUNTRY">Indonesia</SimpleData>
+		<SimpleData name="GID_1">IDN.9_1</SimpleData>
+		<SimpleData name="NAME_1">JawaBarat</SimpleData>
+		<SimpleData name="NL_NAME_1">NA</SimpleData>
+		<SimpleData name="GID_2">IDN.9.26_1</SimpleData>
+		<SimpleData name="NAME_2">Tasikmalaya</SimpleData>
+		<SimpleData name="NL_NAME_2">NA</SimpleData>
+		<SimpleData name="NAME_3">Sariwangi</SimpleData>
+		<SimpleData name="VARNAME_3">NA</SimpleData>
+		<SimpleData name="NL_NAME_3">NA</SimpleData>
+		<SimpleData name="TYPE_3">Kecamatan</SimpleData>
+		<SimpleData name="ENGTYPE_3">Sub-district</SimpleData>
+		<SimpleData name="CC_3">3206211</SimpleData>
+		<SimpleData name="HASC_3">NA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>108.0873,-7.347 108.0813,-7.3409 108.0688,-7.3464 108.0616,-7.3387 108.0506,-7.3341 108.0514,-7.3318 108.0499,-7.3274 108.0454,-7.3215 108.048,-7.3184 108.052,-7.32 108.0507,-7.3164 108.0522,-7.3104 108.0475,-7.3068 108.0476,-7.3023 108.045,-7.3 108.046,-7.2969 108.0423,-7.2972 108.0409,-7.2955 108.0427,-7.2939 108.038,-7.2849 108.0311,-7.2806 108.0327,-7.2785 108.0264,-7.2689 108.0282,-7.2634 108.0273,-7.2592 108.026,-7.2547 108.0245,-7.2546 108.0248,-7.2529 108.0234,-7.2531 108.0225,-7.2511 108.0244,-7.2491 108.0262,-7.2505 108.0261,-7.2475 108.0285,-7.246 108.035,-7.2456 108.0417,-7.2422 108.0478,-7.2423 108.0559,-7.2458 108.0601,-7.2457 108.0613,-7.2468 108.0586,-7.2533 108.0616,-7.2534 108.0677,-7.2576 108.0656,-7.2742 108.0686,-7.2986 108.067,-7.3086 108.0694,-7.3098 108.0732,-7.3087 108.0743,-7.31 108.0778,-7.321 108.0818,-7.3233 108.0814,-7.327 108.0828,-7.3272 108.0882,-7.3212 108.0886,-7.3235 108.0901,-7.3236 108.0905,-7.3204 108.091,-7.3238 108.0933,-7.3239 108.0932,-7.321 108.0946,-7.3233 108.0946,-7.3213 108.0972,-7.3263 108.0983,-7.3369 108.0909,-7.339 108.0886,-7.3478 108.0873,-7.347</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="gadm41_idn_3.7">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm41_idn_3">
+		<SimpleData name="GID_3">IDN.9.26.33_1</SimpleData>
+		<SimpleData name="GID_0">IDN</SimpleData>
+		<SimpleData name="COUNTRY">Indonesia</SimpleData>
+		<SimpleData name="GID_1">IDN.9_1</SimpleData>
+		<SimpleData name="NAME_1">JawaBarat</SimpleData>
+		<SimpleData name="NL_NAME_1">NA</SimpleData>
+		<SimpleData name="GID_2">IDN.9.26_1</SimpleData>
+		<SimpleData name="NAME_2">Tasikmalaya</SimpleData>
+		<SimpleData name="NL_NAME_2">NA</SimpleData>
+		<SimpleData name="NAME_3">Sukahening</SimpleData>
+		<SimpleData name="VARNAME_3">NA</SimpleData>
+		<SimpleData name="NL_NAME_3">NA</SimpleData>
+		<SimpleData name="TYPE_3">Kecamatan</SimpleData>
+		<SimpleData name="ENGTYPE_3">Sub-district</SimpleData>
+		<SimpleData name="CC_3">3206231</SimpleData>
+		<SimpleData name="HASC_3">NA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>108.1712,-7.2356 108.1665,-7.2317 108.163,-7.2321 108.1536,-7.2292 108.1492,-7.2305 108.1467,-7.2335 108.144,-7.2325 108.1401,-7.2351 108.1342,-7.2265 108.1386,-7.2248 108.1409,-7.2219 108.136,-7.2221 108.125,-7.2173 108.1169,-7.216 108.1141,-7.2138 108.1098,-7.2181 108.1051,-7.2162 108.0623,-7.226 108.0606,-7.2248 108.0686,-7.2115 108.0684,-7.2086 108.0661,-7.2073 108.0688,-7.2007 108.0749,-7.1984 108.083,-7.1996 108.0848,-7.1927 108.0912,-7.1889 108.1034,-7.1933 108.1186,-7.2017 108.1239,-7.1981 108.1262,-7.1985 108.1275,-7.195 108.1429,-7.2005 108.1493,-7.1948 108.1501,-7.2036 108.1575,-7.2051 108.1633,-7.2089 108.1618,-7.2143 108.1665,-7.2171 108.1635,-7.2207 108.1703,-7.2262 108.1733,-7.2317 108.1739,-7.2348 108.1712,-7.2356</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="gadm41_idn_3.8">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm41_idn_3">
+		<SimpleData name="GID_3">IDN.9.26.36_1</SimpleData>
+		<SimpleData name="GID_0">IDN</SimpleData>
+		<SimpleData name="COUNTRY">Indonesia</SimpleData>
+		<SimpleData name="GID_1">IDN.9_1</SimpleData>
+		<SimpleData name="NAME_1">JawaBarat</SimpleData>
+		<SimpleData name="NL_NAME_1">NA</SimpleData>
+		<SimpleData name="GID_2">IDN.9.26_1</SimpleData>
+		<SimpleData name="NAME_2">Tasikmalaya</SimpleData>
+		<SimpleData name="NL_NAME_2">NA</SimpleData>
+		<SimpleData name="NAME_3">Sukaratu</SimpleData>
+		<SimpleData name="VARNAME_3">NA</SimpleData>
+		<SimpleData name="NL_NAME_3">NA</SimpleData>
+		<SimpleData name="TYPE_3">Kecamatan</SimpleData>
+		<SimpleData name="ENGTYPE_3">Sub-district</SimpleData>
+		<SimpleData name="CC_3">3206221</SimpleData>
+		<SimpleData name="HASC_3">NA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>108.1539,-7.3248 108.1529,-7.328 108.1505,-7.3231 108.145,-7.3189 108.1301,-7.2947 108.1241,-7.2881 108.107,-7.2812 108.1008,-7.2753 108.0979,-7.2771 108.096,-7.2731 108.093,-7.2741 108.0871,-7.2678 108.085,-7.2633 108.0763,-7.2637 108.0616,-7.2534 108.0586,-7.2533 108.0623,-7.2422 108.0651,-7.2402 108.0645,-7.2376 108.0712,-7.2394 108.0789,-7.245 108.0884,-7.2451 108.101,-7.2495 108.1072,-7.2487 108.1088,-7.2513 108.1161,-7.2528 108.1224,-7.2582 108.1282,-7.2589 108.1331,-7.2558 108.1391,-7.2571 108.14,-7.2616 108.1493,-7.2692 108.1505,-7.2674 108.1573,-7.2686 108.1654,-7.2771 108.1718,-7.2748 108.1798,-7.276 108.1814,-7.2789 108.18,-7.2791 108.1789,-7.2849 108.1759,-7.284 108.1761,-7.2886 108.173,-7.2891 108.1708,-7.2877 108.1653,-7.2898 108.1594,-7.2886 108.155,-7.2897 108.1523,-7.2858 108.1497,-7.2877 108.1531,-7.2952 108.1605,-7.3034 108.1586,-7.3104 108.1613,-7.3179 108.1594,-7.3204 108.1609,-7.3219 108.1603,-7.3239 108.1539,-7.3248</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
